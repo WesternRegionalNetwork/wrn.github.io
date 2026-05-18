@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/WRN.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/WRN.png"
+  bio    : "he Western Regional Network is a multi-state partnership to provide advanced, robust high-speed networking for research, education, and related uses."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
