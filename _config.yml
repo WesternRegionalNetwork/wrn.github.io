@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   for research, education, and related uses.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: plum #default
+minimal_mistakes_skin: neon #default
 search: true
 
 # Build settings
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/WRN.png"
-  bio    : "he Western Regional Network is a multi-state partnership to provide advanced, robust high-speed networking for research, education, and related uses."
+  bio    : "The Western Regional Network is a multi-state partnership to provide advanced, robust high-speed networking for research, education, and related uses."
   links:
     - label: "Press Release"
       icon: "fas fa-fw fa-link"
