@@ -1,8 +1,8 @@
 main:
   - title: "WRN Wiki"
-    url: /WRN Wiki/
+    url: https://wiki.ucar.edu/login.action?os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3Dwrn%26title%3DHome&permissionViolation=true
   - title: "Press Release"
-    url: https://westernregional.net/WRN_Press_Release_2_19_10.pdf
+    url: "https://westernregional.net/WRN_Press_Release_2_19_10.pdf"
   - title: "Internal"
     url: /Internal/
   - title: "Contact Information"
