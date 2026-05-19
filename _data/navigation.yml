@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "WRN Wiki"
+    url: /WRN Wiki/
+  - title: "Press Release"
+    url: /Press Release/
+  - title: "Internal"
+    url: /Internal/
   - title: "Contact Information"
     url: /Contact Information/
+# Posts Categories and tags were the original
