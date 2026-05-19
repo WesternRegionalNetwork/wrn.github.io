@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Press Release"
+layout: Press Release
+permalink: /Press Release/
 author_profile: true
 ---
