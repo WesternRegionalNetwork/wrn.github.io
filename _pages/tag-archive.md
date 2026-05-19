@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "Internal"
+permalink: /Internal/
+layout: Internal
 author_profile: true
 ---
