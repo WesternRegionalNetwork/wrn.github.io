@@ -1,5 +1,5 @@
 ---
-title: "Internal"
+#title: "Internal"
 permalink: /Internal/
 #layout: Internal
 #author_profile: true
