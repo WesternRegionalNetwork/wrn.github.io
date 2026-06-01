@@ -1,6 +1,6 @@
 ---
-title: "Internal"
-#permalink: /Internal/
+title: "Internal Links"
+permalink: /Internal/
 #layout: Internal
 #author_profile: true
 ---
