@@ -1,5 +1,5 @@
 ---
-title: "Internal Links"
+title: "Internal Pages"
 permalink: /Internal/
 #layout: Internal
 #author_profile: true
