@@ -14,4 +14,4 @@ permalink: /Internal/
 
 [WRN Email List](https://groups.google.com/a/ucar.edu/g/wrn/about)
 
-[Policy Committee Email List](https://groups.google.com/a/ucar.edu/g/wpc/about)
+[WPC WRN Policy Committee Email List](https://groups.google.com/a/ucar.edu/g/wpc/about)
