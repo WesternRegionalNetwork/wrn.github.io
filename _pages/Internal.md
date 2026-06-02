@@ -18,6 +18,8 @@ permalink: /Internal/
 
 [Meeting Minutes](https://drive.google.com/drive/u/0/folders/1AOeA_YBkqYJ8Ou_lSzuEwaMVKH9frEQc)
 
+[Resolutions](https://docs.google.com/spreadsheets/d/1lfRnahWnwjOH1l7qJLpfUS2SBn7ndjdlyW81CsT9CgQ/edit?gid=0#gid=0)
+
 ### Email Lists
 
 [WRN Email List](https://groups.google.com/a/ucar.edu/g/wrn/about)
