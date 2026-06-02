@@ -16,6 +16,8 @@ permalink: /Internal/
 
 [Members](https://docs.google.com/spreadsheets/d/1zqVXy2h32qJB4HgtMLM6i9FWKLBXFohsBJ_zqAcesC0/edit?gid=0#gid=0)
 
+[Meeting Minutes](https://drive.google.com/drive/u/0/folders/1AOeA_YBkqYJ8Ou_lSzuEwaMVKH9frEQc)
+
 ### Email Lists
 
 [WRN Email List](https://groups.google.com/a/ucar.edu/g/wrn/about)
