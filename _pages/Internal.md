@@ -27,3 +27,7 @@ permalink: /Internal/
 [WPC - WRN Policy Committee Email List](https://groups.google.com/a/ucar.edu/g/wpc/about)
 
 [WTC - WRN Technical Comittee Email List](https://groups.google.com/a/ucar.edu/g/wtc/about)
+
+### WTC - WRN Technical Committee
+
+The WRN technical committee keeps its documentation on the [WRN Wiki](https://wiki.ucar.edu/login.action?os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3Dwrn%26title%3DHome&permissionViolation=true)
