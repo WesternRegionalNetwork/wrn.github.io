@@ -1,3 +1,4 @@
+# Summary: This displays the top page links
 main:
   - title: "WRN Wiki"
     url: https://wiki.ucar.edu/login.action?os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3Dwrn%26title%3DHome&permissionViolation=true
@@ -5,4 +6,4 @@ main:
     url: "https://westernregional.net/WRN_Press_Release_2_19_10.pdf"
   - title: "Internal"
     url: /Internal/
-# Posts Categories and tags were the original
+
