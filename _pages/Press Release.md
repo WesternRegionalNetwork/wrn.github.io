@@ -1,6 +1,6 @@
 ---
 title: "Press Release"
 layout: Press Release
-url: https://drive.google.com/drive/u/0/folders/1tpNsZ35tXH0-vHQsCkOqkgvnKYEKEjuB
+url: https://docs.google.com/document/d/1fanrLUpEgBN-ZPVJ2PecR394Sg3JUYPwz0dS-vAKL_0/edit?tab=t.0
 author_profile: true
 ---
