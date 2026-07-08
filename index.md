@@ -4,7 +4,8 @@
 layout: splash
 author_profile: true
 header:
-  image: /assets/WRN-map.png width="50%"
+  # image: /assets/WRN-map.png width="50%"
+  <img src="{{ page.image }}" style="width: 50%;">
 
 ---
 
